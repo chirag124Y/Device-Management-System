@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Search Page">9bcf94c4247053101c08e9fd59d23408</macroponent>
+        <name>handle_search</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({ api, event, helpers }) {
+    const fields = {
+        searchContextConfigId: api.context.props.searchContextConfigId
+    };
+    const params = {
+        searchFilters: api.context.props.searchFilters
+    };
+    
+	if (event.name === 'SN_SEARCH_RESULTS_CONTAINER#SEARCH_EXECUTED') {
+		fields.searchTerm = event.payload.searchTerm;
+		params.disableSpellCheck = true;
+        
+  	} else if (event.name === 'SN_SEARCH_COMBOBOX#SEARCH_EXECUTED') {
+		fields.searchTerm = event.payload.searchTerm;
+		params.disableSpellCheck = false;
+        console.log("search clicked");
+        api.setState('loading', true);
+        api.setState('searchTerm', event.payload.searchTerm);
+  	}
+	//helpers.navigate.to('search', fields, params);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 18:29:31</sys_created_on>
+        <sys_id>83cf94c41d7053104d5e2a68b8479e00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handle_search</sys_name>
+        <sys_package display_value="Smart Device Management System" source="x_635007_smart_d_0">b1de1844737053102a2dfd145ab8b7f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Smart Device Management System">b1de1844737053102a2dfd145ab8b7f8</sys_scope>
+        <sys_update_name>sys_ux_client_script_83cf94c41d7053104d5e2a68b8479e00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 18:29:31</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

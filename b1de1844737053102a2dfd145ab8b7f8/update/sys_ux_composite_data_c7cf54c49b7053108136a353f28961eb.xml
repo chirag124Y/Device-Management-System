@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data">
+    <sys_ux_composite_data action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_filter_label/>
+        <name>Custom Portal Catalog Item page - Related Items dataset</name>
+        <query_parameters/>
+        <required_roles/>
+        <sort_order/>
+        <sys_class_name>sys_ux_composite_data</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 18:29:31</sys_created_on>
+        <sys_id>c7cf54c49b7053108136a353f28961eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal Catalog Item page - Related Items dataset</sys_name>
+        <sys_package display_value="Smart Device Management System" source="x_635007_smart_d_0">b1de1844737053102a2dfd145ab8b7f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Smart Device Management System">b1de1844737053102a2dfd145ab8b7f8</sys_scope>
+        <sys_update_name>sys_ux_composite_data_c7cf54c49b7053108136a353f28961eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 18:29:31</sys_updated_on>
+    </sys_ux_composite_data>
+</record_update>

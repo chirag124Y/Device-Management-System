@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>Related items Mapping</name>
+        <parent_macroponent display_value="Catalog Item Page">93cf94c4267053108d738c6d14a32818</parent_macroponent>
+        <source_component/>
+        <source_da display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</source_da>
+        <source_element_id>data_row_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 18:29:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9bcf94c4d3705310fd5b3376383e4517</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Related items Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Smart Device Management System" source="x_635007_smart_d_0">b1de1844737053102a2dfd145ab8b7f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Smart Device Management System">b1de1844737053102a2dfd145ab8b7f8</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_9bcf94c4d3705310fd5b3376383e4517</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 18:29:34</sys_updated_on>
+        <target_event display_value="Catalog item card clicked">9bcf94c49a705310a6d29f823abb7518</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>
