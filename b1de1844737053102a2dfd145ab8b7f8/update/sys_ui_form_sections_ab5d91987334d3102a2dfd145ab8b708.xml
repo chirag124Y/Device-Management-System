@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ab5d91987334d3102a2dfd145ab8b708" sys_domain="global" table="x_635007_smart_d_0_ai_device" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-22 17:36:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af5d91987334d3102a2dfd145ab8b727</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_635007_smart_d_0_ai_device" name="x_635007_smart_d_0_ai_device" sys_domain="global" view="Default view">ab5d91987334d3102a2dfd145ab8b708</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_ai_device" sys_domain="global" view="Default view">30e26c5073bc93102a2dfd145ab8b7b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-22 17:36:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-22 17:36:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab5d91987334d3102a2dfd145ab8b729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_635007_smart_d_0_ai_device" name="x_635007_smart_d_0_ai_device" sys_domain="global" view="Default view">ab5d91987334d3102a2dfd145ab8b708</sys_ui_form>
+            <sys_ui_section caption="Price and Warranty" display_value="Price and Warranty" name="x_635007_smart_d_0_ai_device" sys_domain="global" view="Default view">2b5d91987334d3102a2dfd145ab8b706</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-22 17:36:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_635007_smart_d_0_ai_device</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-22 17:36:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab5d91987334d3102a2dfd145ab8b708</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_635007_smart_d_0_ai_device</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Smart Device Management System" source="x_635007_smart_d_0">b1de1844737053102a2dfd145ab8b7f8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Smart Device Management System">b1de1844737053102a2dfd145ab8b7f8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ab5d91987334d3102a2dfd145ab8b708</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-22 17:36:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

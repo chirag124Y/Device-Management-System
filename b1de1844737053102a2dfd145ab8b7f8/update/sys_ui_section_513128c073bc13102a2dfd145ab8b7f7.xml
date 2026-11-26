@@ -4,55 +4,55 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-21 18:35:37</sys_created_on>
-            <sys_id>d13128c073bc13102a2dfd145ab8b7f9</sys_id>
+            <sys_created_on>2026-11-22 18:17:01</sys_created_on>
+            <sys_id>7686295c7374d3102a2dfd145ab8b791</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_device_request" sys_domain="global" view="Default view">513128c073bc13102a2dfd145ab8b7f7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-21 18:35:37</sys_updated_on>
+            <sys_updated_on>2026-11-22 18:17:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
+            <element>device_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-21 18:35:37</sys_created_on>
-            <sys_id>1d3128c073bc13102a2dfd145ab8b7fa</sys_id>
+            <sys_created_on>2026-11-22 18:17:01</sys_created_on>
+            <sys_id>f286295c7374d3102a2dfd145ab8b792</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_device_request" sys_domain="global" view="Default view">513128c073bc13102a2dfd145ab8b7f7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-21 18:35:37</sys_updated_on>
+            <sys_updated_on>2026-11-22 18:17:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cmdb_ci</element>
+            <element>requestor_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-21 18:35:37</sys_created_on>
-            <sys_id>5d31e488737053102a2dfd145ab8b716</sys_id>
+            <sys_created_on>2026-11-22 18:17:01</sys_created_on>
+            <sys_id>7286295c7374d3102a2dfd145ab8b793</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_device_request" sys_domain="global" view="Default view">513128c073bc13102a2dfd145ab8b7f7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-21 18:35:37</sys_updated_on>
+            <sys_updated_on>2026-11-22 18:17:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
+            <element>company</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-21 18:35:37</sys_created_on>
-            <sys_id>d131e488737053102a2dfd145ab8b718</sys_id>
+            <sys_created_on>2026-11-22 18:17:01</sys_created_on>
+            <sys_id>fe86295c7374d3102a2dfd145ab8b793</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_device_request" sys_domain="global" view="Default view">513128c073bc13102a2dfd145ab8b7f7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-21 18:35:37</sys_updated_on>
+            <sys_updated_on>2026-11-22 18:17:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,27 +60,27 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-21 18:35:37</sys_created_on>
-            <sys_id>1931e488737053102a2dfd145ab8b717</sys_id>
+            <sys_created_on>2026-11-22 18:17:01</sys_created_on>
+            <sys_id>7e86295c7374d3102a2dfd145ab8b794</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_device_request" sys_domain="global" view="Default view">513128c073bc13102a2dfd145ab8b7f7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-21 18:35:37</sys_updated_on>
+            <sys_updated_on>2026-11-22 18:17:01</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
+            <element>quantity</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-21 18:35:37</sys_created_on>
-            <sys_id>9d31e488737053102a2dfd145ab8b718</sys_id>
+            <sys_created_on>2026-11-22 18:17:01</sys_created_on>
+            <sys_id>fa86295c7374d3102a2dfd145ab8b795</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_device_request" sys_domain="global" view="Default view">513128c073bc13102a2dfd145ab8b7f7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-21 18:35:37</sys_updated_on>
+            <sys_updated_on>2026-11-22 18:17:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,27 +88,27 @@
             <element>state</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-21 18:35:37</sys_created_on>
-            <sys_id>5931e488737053102a2dfd145ab8b719</sys_id>
+            <sys_created_on>2026-11-22 18:17:01</sys_created_on>
+            <sys_id>7a86295c7374d3102a2dfd145ab8b796</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_device_request" sys_domain="global" view="Default view">513128c073bc13102a2dfd145ab8b7f7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-21 18:35:37</sys_updated_on>
+            <sys_updated_on>2026-11-22 18:17:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>parent</element>
+            <element>delivery_date</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-21 18:35:37</sys_created_on>
-            <sys_id>2531e488737053102a2dfd145ab8b71a</sys_id>
+            <sys_created_on>2026-11-22 18:17:01</sys_created_on>
+            <sys_id>f686295c7374d3102a2dfd145ab8b797</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_device_request" sys_domain="global" view="Default view">513128c073bc13102a2dfd145ab8b7f7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-21 18:35:37</sys_updated_on>
+            <sys_updated_on>2026-11-22 18:17:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,55 +116,27 @@
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-21 18:35:37</sys_created_on>
-            <sys_id>ed31e488737053102a2dfd145ab8b71a</sys_id>
+            <sys_created_on>2026-11-22 18:17:01</sys_created_on>
+            <sys_id>7686295c7374d3102a2dfd145ab8b798</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_device_request" sys_domain="global" view="Default view">513128c073bc13102a2dfd145ab8b7f7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-21 18:35:37</sys_updated_on>
+            <sys_updated_on>2026-11-22 18:17:01</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
+            <element>description</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-21 18:35:37</sys_created_on>
-            <sys_id>a931e488737053102a2dfd145ab8b71b</sys_id>
+            <sys_created_on>2026-11-22 18:17:01</sys_created_on>
+            <sys_id>f286295c7374d3102a2dfd145ab8b799</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_device_request" sys_domain="global" view="Default view">513128c073bc13102a2dfd145ab8b7f7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-21 18:35:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-21 18:35:37</sys_created_on>
-            <sys_id>6531e488737053102a2dfd145ab8b71c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_device_request" sys_domain="global" view="Default view">513128c073bc13102a2dfd145ab8b7f7</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-21 18:35:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-21 18:35:37</sys_created_on>
-            <sys_id>2131e488737053102a2dfd145ab8b71d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_635007_smart_d_0_device_request" sys_domain="global" view="Default view">513128c073bc13102a2dfd145ab8b7f7</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-21 18:35:37</sys_updated_on>
+            <sys_updated_on>2026-11-22 18:17:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
