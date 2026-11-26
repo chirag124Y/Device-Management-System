@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">c7cf54c49b7053108136a353f28961eb</dataset>
+        <datasource display_value="Custom Portal Catalog Item page - Related Items Datasource">c7cf54c4a3705310db3d0204be86ece9</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 18:29:34</sys_created_on>
+        <sys_id>cbcf54c40b705310ac2f9f2b871bd1e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Smart Device Management System" source="x_635007_smart_d_0">b1de1844737053102a2dfd145ab8b7f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Smart Device Management System">b1de1844737053102a2dfd145ab8b7f8</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_cbcf54c40b705310ac2f9f2b871bd1e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 18:29:34</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

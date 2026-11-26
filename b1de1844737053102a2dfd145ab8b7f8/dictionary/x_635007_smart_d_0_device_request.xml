@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="f031a488737053102a2dfd145ab8b768" extends="task" label="Device Request" max_length="40" name="x_635007_smart_d_0_device_request" type="collection">
+        <element label="Delivery Date" max_length="255" name="delivery_date" type="glide_date"/>
+        <element label="price" max_length="20" name="price" read_only="true" read_only_option="client_script_modifiable" type="price"/>
+        <element label="Model" max_length="40" name="model" read_only="true" read_only_option="client_script_modifiable" type="string"/>
+        <element label="Requestor Name" mandatory="true" max_length="32" name="requestor_name" reference="sys_user" type="reference"/>
+        <element label="Device Description" max_length="995" name="device_description" read_only="true" read_only_option="client_script_modifiable" type="string"/>
+        <element label="Warranty Expiration" max_length="255" name="warranty_expiration" read_only="true" read_only_option="client_script_modifiable" type="glide_date"/>
+        <element label="Device name" mandatory="true" max_length="32" name="device_name" reference="x_635007_smart_d_0_ai_device" type="reference"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+    </element>
+</database>
